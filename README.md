@@ -13,8 +13,8 @@ O FIAP Bank ATM simula as operações de um caixa eletrônico via console, aplic
 
 O projeto foi evoluído em dois checkpoints:
 
-- **CP2:** Arquitetura base com entidades, classes abstratas, polimorfismo e Value Objects
-- **CP3:** Contratos via Interfaces, Exceções de Domínio customizadas e resiliência na camada de apresentação
+- **CP2:** Arquitetura base com entidades, classes abstratas, polimorfismo e Value Objects.
+- **CP3:** Contratos via Interfaces, Exceções de Domínio customizadas e resiliência na camada de apresentação.
 
 ---
 
